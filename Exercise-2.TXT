@@ -1,0 +1,8 @@
+-Install git in your local system and perform bellow operations.
+
+1. create a new branch
+2. list the branches
+3. delete a branch
+4. switch between the branches
+5. rename branch name
+
